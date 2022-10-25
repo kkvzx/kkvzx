@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">A juniorfrontend developer from Poland</h3>
+<h3 align="center">A junior frontend developer from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
